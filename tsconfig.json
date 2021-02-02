@@ -9,6 +9,7 @@
     "baseUrl": ".",
     "paths": {
       "@presentation-protocols/*": ["./src/presentation/protocols/*"],
+      "@data-protocols/*": ["./src/data/protocols/*"],
       "@validations/*": ["./src/utils/validations/*"],
     }
   }
